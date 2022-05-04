@@ -1,0 +1,59 @@
+
+
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+
+
+
+html {
+  font-size:18px;
+  font-family: 'Lato', sans-serif;
+} 
+
+body {
+background-color:#FFF;
+}
+h2{
+  color: #23226c;
+  font-weight: 900;
+  font-size:180%;
+
+
+}
+h1 {
+  color: #23226c;
+  font-weight: 900;
+  text-align: center;
+  font-size:240%;
+
+}
+
+p {
+  color:#555;
+  line-height:150%;
+  text-align: justify to block;
+}
+
+strong {
+  color: #000;
+}
+
+em {
+  background-color: #D2D6EF;
+  font-style: normal;
+}
+
+a {
+  color:#6290C3;
+}
+.conclusion,
+.intro {
+  background-color: #D2D6EF;
+}
